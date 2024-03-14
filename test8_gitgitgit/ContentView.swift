@@ -17,6 +17,8 @@ struct ContentView: View {
         }
         .padding()
         // dadfadfad
+        // dkaxms
+        // lucia에서 작업함
     }
 }
 
