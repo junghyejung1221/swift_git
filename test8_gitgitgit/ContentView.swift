@@ -19,6 +19,8 @@ struct ContentView: View {
         // dadfadfad
         // dkaxms
         // lucia에서 작업함
+        
+        // 협업 ㅠㅠㅠ 잘못줫어 불량이야
     }
 }
 
